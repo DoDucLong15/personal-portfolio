@@ -251,7 +251,7 @@ h2 {
 
 
 /* DARK MODE */
-/* @media(prefers-color-scheme: dark){
+@media(prefers-color-scheme: dark){
   :root{
       --HEADER-RED: rgb(233, 116, 116);
       --FONT-COLOR: whitesmoke;
@@ -260,4 +260,4 @@ h2 {
       --PROJECT-PBGCOLOR: rgb(52, 53, 58);
       --POPPING-RED: rgb(216, 224, 96);
   }
-} */
+}
